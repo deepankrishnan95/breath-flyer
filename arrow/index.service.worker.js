@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795364771|1382405';
+const CACHE_VERSION = '1795365982|913672';
 /** @type {string} */
 const CACHE_PREFIX = 'ARROW-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
